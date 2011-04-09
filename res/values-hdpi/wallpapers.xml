@@ -19,5 +19,10 @@
     <string-array name="wallpapers" translatable="false">
         <item>wallpaper_01</item>
         <item>wallpaper_02</item>
+        <item>wallpaper_03</item>
+        <item>wallpaper_04</item>
+        <item>wallpaper_05</item>
+        <item>wallpaper_06</item>
+        <item>wallpaper_07</item>
     </string-array>
 </resources>
